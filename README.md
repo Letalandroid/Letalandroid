@@ -8,22 +8,22 @@
 <div>
   <span>🔵 Twitter: </span>
   <a href="https://twitter.com/letalandroid" target="_blank">
-    <img src="https://images.emojiterra.com/google/android-pie/512px/1f449.png" width="15px">
+    @letalandroid 🐦
   </a>
   <br>
   <span>⚪ Instagram: </span>
   <a href="https://www.instagram.com/carlosj_mm/" target="_blank">
-    <img src="https://images.emojiterra.com/google/android-pie/512px/1f449.png" width="15px">
+    @carlosj_mm 📷
   </a>
   <br>
    <span>🟣 Twitch: </span>
   <a href="https://www.twitch.tv/letalandroid" target="_blank">
-    <img src="https://images.emojiterra.com/google/android-pie/512px/1f449.png" width="15px">
+    Letalandroid 🎬
   </a>
   <br>
    <span>🔴 YouTube: </span>
   <a href="https://www.youtube.com/channel/UCxO21Lt_MNFx2Plq13UHO-A" target="_blank">
-    <img src="https://images.emojiterra.com/google/android-pie/512px/1f449.png" width="15px">
+    Letalandroid 🎬
   </a>
 </div>
 <!---
