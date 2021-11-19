@@ -4,8 +4,17 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Desarrollo de Sitios Web's
 
+# Mis proyectos:
+<ul>
+  <li>Los puedes encontrar en <a href="https://github.com/Letalandroid?tab=repositories">GitHub</a></li>
+  </ul>
+
 # Mis redes:
 <div>
+  <span>⚫ Mi portafolio: </span>
+  <a href="https://www.letalandroid.ml" target="_blank">
+    www.letalandroid.ml 🌐
+  </a>
   <span>🔵 Twitter: </span>
   <a href="https://twitter.com/letalandroid" target="_blank">
     @letalandroid 🐦
