@@ -1,10 +1,10 @@
-#Hola
+# Hola
 - 👋 Hi, I’m Letalandroid
 - 👀 I’m interested in Front-end Developer
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Desarrollo de Sitios Web's
 
-#Mis redes:
+# Mis redes:
 <div>
   <span>🔵 Twitter: </span>
   <a href="https://twitter.com/letalandroid" target="_blank">
