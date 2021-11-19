@@ -4,18 +4,25 @@
 - 💞️ I’m looking to collaborate on Desarrollo de Sitios Web's
 - 📫 How to reach me:
 
-<div style="display:flex; justify-content:center;">
+<div>
+  <span>🔵 Twitter: </span>
   <a href="https://twitter.com/letalandroid" target="_blank">
-    <img src="https://logo-logos.com/wp-content/uploads/2016/11/Twitter_logo_blue_bird.png" width="50px">
+    <img src="https://images.emojiterra.com/google/android-pie/512px/1f449.png" width="15px">
   </a>
+  <br>
+  <span>⚪ Instagram: </span>
   <a href="https://www.instagram.com/carlosj_mm/" target="_blank">
-    <img src="https://logo-logos.com/wp-content/uploads/2016/10/Instagram_logo_icon.png" width="50px">
+    <img src="https://images.emojiterra.com/google/android-pie/512px/1f449.png" width="15px">
   </a>
+  <br>
+   <span>🟣 Twitch: </span>
   <a href="https://www.twitch.tv/letalandroid" target="_blank">
-    
+    <img src="https://images.emojiterra.com/google/android-pie/512px/1f449.png" width="15px">
   </a>
+  <br>
+   <span>🔴 YouTube: </span>
   <a href="https://www.youtube.com/channel/UCxO21Lt_MNFx2Plq13UHO-A" target="_blank">
-    <img src="https://logo-logos.com/wp-content/uploads/2016/11/YouTube_icon_logo.png" width="55px">
+    <img src="https://images.emojiterra.com/google/android-pie/512px/1f449.png" width="15px">
   </a>
 </div>
 <!---
