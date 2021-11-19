@@ -1,3 +1,5 @@
+<script src="https://kit.fontawesome.com/8b1c082df7.js" crossorigin="anonymous"></script>
+
 - 👋 Hi, I’m Letalandroid
 - 👀 I’m interested in Front-end Developer
 - 🌱 I’m currently learning JavaScript
