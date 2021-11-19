@@ -5,17 +5,17 @@
 - 📫 How to reach me:
 
 <div>
-  <a href="https://twitter.com/letalandroid" target="_blank">
+  <a href="https://twitter.com/letalandroid" width="80px" target="_blank">
     <img src="https://yt3.ggpht.com/a/AGF-l7-reQpFnVI_3C-gqR3-tC9wlkNOe8q3gkCYQA=s900-c-k-c0xffffffff-no-rj-mo">
   </a>
-  <a href="https://www.instagram.com/carlosj_mm/" target="_blank">
+  <a href="https://www.instagram.com/carlosj_mm/" width="80px" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png">
   </a>
-  <a href="https://twitter.com/letalandroid" target="_blank">
-    <img src="https://yt3.ggpht.com/a/AGF-l7-reQpFnVI_3C-gqR3-tC9wlkNOe8q3gkCYQA=s900-c-k-c0xffffffff-no-rj-mo">
+  <a href="https://www.twitch.tv/letalandroid" width="80px" target="_blank">
+    <img src="https://clipartcraft.com/images/twitch-logo-png-round-2.png">
   </a>
-  <a href="https://twitter.com/letalandroid" target="_blank">
-    <img src="https://yt3.ggpht.com/a/AGF-l7-reQpFnVI_3C-gqR3-tC9wlkNOe8q3gkCYQA=s900-c-k-c0xffffffff-no-rj-mo">
+  <a href="https://www.youtube.com/channel/UCxO21Lt_MNFx2Plq13UHO-A" width="80px" target="_blank">
+    <img src="https://www.quelmastermarketing.fr/wp-content/uploads/2020/10/youtube-logo-1024x1024.png">
   </a>
 
 <!---
