@@ -24,6 +24,11 @@
     www.letalandroid.ml 🌐
   </a>
   <br>
+  <span>💼 Linkdedin: </span>
+  <a href="https://www.linkedin.com/in/letalandroid/" target="_blank">
+    https://www.linkedin.com/in/letalandroid/ 💼
+  </a>
+  <br>
   <span>🔵 Twitter: </span>
   <a href="https://twitter.com/letalandroid" target="_blank">
     @letalandroid 🐦
