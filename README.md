@@ -37,7 +37,7 @@
   </a>
 </div>
 <br>
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQHWZSH3MlHL_g/profile-displaybackgroundimage-shrink_200_800/0/1614800156583?e=1641427200&v=beta&t=r6TB_TS2rssDtDjI2LU5WfiT5wVd_JGo-OF7h2jRZ-o" width="100%">
+<img src="https://www.letalandroid.ml/src/img/large_img.jpg" width="100%">
 <!---
 Letalandroid/Letalandroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
