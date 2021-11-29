@@ -4,6 +4,14 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Desarrollo de Sitios Web's
 
+# Lenguajes y tecnologías
+<div>
+  <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="40px" style="background:#fff">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px">
+  <img src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494748.png?token=exp=1638208482~hmac=1247dd2899379884260b548ffd9b8bbc" width="40px">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" width="40px">
+</div>
+
 # Mis proyectos:
 <ul>
   <li>Los puedes encontrar en <a href="https://github.com/Letalandroid?tab=repositories">GitHub</a></li>
