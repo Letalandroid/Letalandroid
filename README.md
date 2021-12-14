@@ -8,7 +8,7 @@
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="40px" style="background:#fff">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px">
-  <img src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494748.png?token=exp=1638208482~hmac=1247dd2899379884260b548ffd9b8bbc" width="40px">
+  <img src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494748.png?token=exp=1639506023~hmac=de68b2ddc9287ffe398e861dcf527fa2" width="40px">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" width="40px">
 </div>
 
