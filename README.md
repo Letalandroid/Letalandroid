@@ -8,9 +8,12 @@
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="40px">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px">
-  <img src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494748.png" width="40px">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40px">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" width="40px">
 </div>
+
+# Herramientas
+
 
 # Mis proyectos:
 <ul>
