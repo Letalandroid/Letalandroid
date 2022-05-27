@@ -13,7 +13,7 @@
 
 # Herramientas
 <img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" width="40px">
-<img src=https://cdn-icons.flaticon.com/png/512/4494/premium/4494748.png?token=exp=1653655961~hmac=550b21ff952a2ca879bfb9c1b39366e6" width="40px">
+<img src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494748.png?token=exp=1653655961~hmac=550b21ff952a2ca879bfb9c1b39366e6" width="40px">
 
 # Mis proyectos:
 <ul>
