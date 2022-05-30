@@ -4,11 +4,12 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Desarrollo de Sitios Web's
 
-# Lenguajes y tecnologías
+# Lenguajes de Programación y Frameworks
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="40px">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40px">
+  <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="40px">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40px">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40px">
 </div>
@@ -16,8 +17,8 @@
 # Herramientas
 <div>
   <img src="https://i.pinimg.com/originals/00/f4/05/00f40564d281eee8dbb931024b8e6975.png" width="40px">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" width="40px">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" width="40px">
-  <img src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494748.png?token=exp=1653655961~hmac=550b21ff952a2ca879bfb9c1b39366e6" width="40px">
 </div>
 
 # Mis proyectos:
