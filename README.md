@@ -1,7 +1,7 @@
 # Hola
 - 👋 Hi, I’m Letalandroid
 - 👀 I’m interested in Front-end Developer
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on Desarrollo de Sitios Web's
 
 # Lenguajes de Programación y Frameworks
