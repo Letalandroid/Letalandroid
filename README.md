@@ -1,4 +1,4 @@
-# Hola
+# Hola 👋
 - 👋 Hi, I’m Letalandroid
 - 👀 I’m interested in Front-end Developer
 - 🌱 I’m currently learning React JS
