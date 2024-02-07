@@ -29,7 +29,7 @@
 # Mis redes:
 <div>
   <span>⚫ Mi portafolio: </span>
-  <a href="https://www.letalandroid.ml" target="_blank">
+  <a href="https://letalandroid.vercel.app" target="_blank">
     www.letalandroid.ml 🌐
   </a>
   <br>
@@ -54,7 +54,7 @@
   </a>
   <br>
    <span>🔴 YouTube: </span>
-  <a href="https://www.youtube.com/channel/UCxO21Lt_MNFx2Plq13UHO-A" target="_blank">
+  <a href="https://www.youtube.com/@letalandroid" target="_blank">
     Letalandroid 🎬
   </a>
 </div>
