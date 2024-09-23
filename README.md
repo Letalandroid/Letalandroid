@@ -30,7 +30,7 @@
 <div>
   <span>⚫ Mi portafolio: </span>
   <a href="https://letalandroid.vercel.app" target="_blank">
-    www.letalandroid.ml 🌐
+    www.letalandroid.vercel.app 🌐
   </a>
   <br>
   <span>💼 Linkdedin: </span>
