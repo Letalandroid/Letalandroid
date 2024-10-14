@@ -17,7 +17,7 @@
 </div>
 
 # 🐍 My Contributions 🐍
-![snake gif](https://github.com/letalandroid/letalandroid/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/letalandroid/letalandroid/blob/output/github-snake.svg)
 
 # 💼 Social
 <div align="center">
