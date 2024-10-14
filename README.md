@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&pause=1000&width=1000&height=120&lines=Hi!+I'm+Letalandroid;Welcome+to+my+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&width=1000&height=100&lines=Hi!+I'm+Letalandroid;Welcome+to+my+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m Letalandroid
 - 👀 I’m interested in Front-end Developer
