@@ -12,10 +12,8 @@
   </a>
 </p>
 
-# Mis proyectos:
-<ul>
-  <li>Los puedes encontrar en <a href="https://github.com/Letalandroid?tab=repositories">GitHub</a></li>
-  </ul>
+# 🐍 My Contributions 🐍
+![snake gif](https://github.com/letalandroid/letalandroid/blob/output/github-contribution-grid-snake.gif)
 
 # Mis redes:
 <div>
