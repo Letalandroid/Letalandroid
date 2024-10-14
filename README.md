@@ -5,19 +5,10 @@
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on Desarrollo de Sitios Web's
 
-# Lenguajes de Programación y Frameworks
-<div>
-  <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="40px">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40px">
-  <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="40px">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40px">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40px">
-</div>
-
-# Herramientas
+# Languages-Frameworks-Tools
 <p align="center">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,vim,python,java,javascript,mysql,php,mongodb" />
     <img src="https://skillicons.dev/icons?i=git,docker,vim,python,java,javascript,mysql,php,mongodb" />
   </a>
 </p>
