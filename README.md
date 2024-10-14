@@ -8,8 +8,7 @@
 # Languages-Frameworks-Tools
 <p align="center">
   <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=react,python,tensorflow,java,typescript,sass,express,flask,mysql,firebase,php,mongodb" />
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vim" />
+    <img src="https://skillicons.dev/icons?i=react,python,tensorflow,java,typescript,sass,express,flask,mysql,firebase,php,mongodb,git,github,docker,linux,vim&perline=5" />
   </a>
 </p>
 
