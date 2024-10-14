@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Letalandroid
 - 👀 I’m interested in Front/back-End Developer
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning (Astro)[https://astro.build/]
 - 💞️ I’m looking to collaborate on Desarrollo de Sitios Web's
 
 # Languages-Frameworks-Tools
