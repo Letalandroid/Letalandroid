@@ -16,11 +16,11 @@
 </div>
 
 # Herramientas
-<div>
-  <img src="https://i.pinimg.com/originals/00/f4/05/00f40564d281eee8dbb931024b8e6975.png" width="40px">
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" width="40px">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" width="40px">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,vim,python,java,javascript,mysql,php,mongodb" />
+  </a>
+</p>
 
 # Mis proyectos:
 <ul>
