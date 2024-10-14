@@ -15,39 +15,33 @@
 # 🐍 My Contributions 🐍
 ![snake gif](https://github.com/letalandroid/letalandroid/blob/output/github-contribution-grid-snake.gif)
 
-# Mis redes:
-<div>
-  <span>⚫ Mi portafolio: </span>
+# 💼 Social
+<div align="center">
   <a href="https://letalandroid.vercel.app" target="_blank">
-    www.letalandroid.vercel.app 🌐
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <br>
-  <span>💼 Linkdedin: </span>
   <a href="https://www.linkedin.com/in/letalandroid/" target="_blank">
-    https://www.linkedin.com/in/letalandroid/ 💼
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <br>
-  <span>🔵 Twitter: </span>
   <a href="https://twitter.com/letalandroid" target="_blank">
-    @letalandroid 🐦
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <br>
-  <span>⚪ Instagram: </span>
   <a href="https://www.instagram.com/carlosj_mm/" target="_blank">
-    @carlosj_mm 📷
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <br>
-   <span>🟣 Twitch: </span>
   <a href="https://www.twitch.tv/letalandroid" target="_blank">
-    Letalandroid 🎬
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
-  <br>
-   <span>🔴 YouTube: </span>
   <a href="https://www.youtube.com/@letalandroid" target="_blank">
-    Letalandroid 🎬
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
 <br>
+
+# ⚡ Stats ⚡
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=letalandroid&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=letalandroid&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 <img src="https://letalandroid.vercel.app/img/large_img.jpg" width="100%">
 <!---
 Letalandroid/Letalandroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
