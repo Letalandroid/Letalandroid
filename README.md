@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Letalandroid;Welcome+to+my+profile+)](https://git.io/typing-svg)
 - 👋 Hi, I’m Letalandroid
 - 👀 I’m interested in Front-end Developer
 - 🌱 I’m currently learning React JS
