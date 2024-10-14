@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&weight=900&size=50&pause=1000&width=1000&height=90&lines=Hi!+I'm+Letalandroid+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+to+my+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m Letalandroid
-- 👀 I’m interested in Front-end Developer
+- 👀 I’m interested in Front/back-End Developer
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on Desarrollo de Sitios Web's
 
