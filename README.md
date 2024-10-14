@@ -6,11 +6,16 @@
 - 💞️ I’m looking to collaborate on Desarrollo de Sitios Web's
 
 # Languages-Frameworks-Tools
-<p align="center">
-  <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=react,python,tensorflow,java,typescript,sass,express,flask,mysql,firebase,php,mongodb,git,github,docker,linux,vim&perline=12" />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,python,tensorflow,java,typescript,sass,express,flask,mysql,firebase,php,mongodb" />
   </a>
-</p>
+</div>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vim&perline=12" />
+  </a>
+</div>
 
 # 🐍 My Contributions 🐍
 ![snake gif](https://github.com/letalandroid/letalandroid/blob/output/github-contribution-grid-snake.gif)
