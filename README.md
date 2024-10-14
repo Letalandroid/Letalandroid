@@ -39,8 +39,12 @@
 <br>
 
 # ⚡ Stats ⚡
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=letalandroid&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=letalandroid&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=letalandroid&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
+  <img src="https://streak-stats.demolab.com?user=letalandroid&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=letalandroid&theme=tokyonight" />
+</div>
+<br />
 
 <img src="https://letalandroid.vercel.app/img/large_img.jpg" width="100%">
 <!---
