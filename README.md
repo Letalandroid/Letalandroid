@@ -59,7 +59,7 @@
   </a>
 </div>
 <br>
-<img src="https://letalandroid.vercel.app/src/img/large_img.jpg" width="100%">
+<img src="https://letalandroid.vercel.app/img/large_img.jpg" width="100%">
 <!---
 Letalandroid/Letalandroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
