@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&weight=900&size=50&pause=1000&width=1000&height=90&lines=Hi!+I'm+Letalandroid+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+to+my+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 👀 I’m interested in Front/Back-End Developer
-- 🌱 I’m currently learning [Astro](https://astro.build/) 🚀
-- 💞️ I’m looking to collaborate on Desarrollo de Sitios Web's
+- 🌱 I’m currently learning Cibersecurity on [HackThebox](https://hackthebox.com/) / [TryHackMe](https://tryhackme.com/) / [Dockerlabs](https://dockerlabs.es) 🚀
+- 💞️ I’m looking to collaborate on `Web Development` and `Pentesting`
 
 # Languages-Frameworks-Tools
 <div align="center">
@@ -43,11 +43,17 @@
 <br>
 
 # ⚡ Stats ⚡
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letalandroid&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=letalandroid&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
-  <img src="https://streak-stats.demolab.com?user=letalandroid&theme=tokyonight" />
-</div>
+
+<center>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/letalandroid.png" alt="Your Image Badge" /><br/>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letalandroid&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=letalandroid&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
+    <img src="https://streak-stats.demolab.com?user=letalandroid&theme=tokyonight" />
+  </div>
+</center>
+  
 <br />
 
 <!-- <img src="https://letalandroid.vercel.app/img/large_img.jpg" width="100%"> --->
