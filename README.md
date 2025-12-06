@@ -45,17 +45,11 @@
 # ⚡ Stats ⚡
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/letalandroid.png" alt="Your Image Badge" />
+<img src="https://streak-stats.demolab.com?user=letalandroid&theme=tokyonight" />
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letalandroid&layout=compact&theme=tokyonight" /> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=letalandroid&show_icons=true&theme=tokyonight#gh-dark-mode-only" /> -->
-<img src="https://streak-stats.demolab.com?user=letalandroid&theme=tokyonight" />
-
   
 <br />
 
 <!-- <img src="https://letalandroid.vercel.app/img/large_img.jpg" width="100%"> -->
-
-<!--
-Letalandroid/Letalandroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
