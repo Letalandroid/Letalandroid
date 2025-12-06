@@ -44,15 +44,13 @@
 
 # ⚡ Stats ⚡
 
-<center>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/letalandroid.png" alt="Your Image Badge" /><br/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/letalandroid.png" alt="Your Image Badge" />
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letalandroid&layout=compact&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api?username=letalandroid&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
-    <img src="https://streak-stats.demolab.com?user=letalandroid&theme=tokyonight" />
-  </div>
-</center>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letalandroid&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=letalandroid&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
+  <img src="https://streak-stats.demolab.com?user=letalandroid&theme=tokyonight" />
+</div>
   
 <br />
 
