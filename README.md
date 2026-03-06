@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&weight=900&size=50&pause=1000&width=1000&height=90&lines=Hi!+I'm+Letalandroid+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+to+my+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!%2BI'm%2BLetalandroid;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
-
 - 👀 I’m interested in Front/Back-End Developer
 - 🌱 I’m currently learning Cibersecurity on [HackThebox](https://hackthebox.com/) / [TryHackMe](https://tryhackme.com/) / [Dockerlabs](https://dockerlabs.es) 🚀
 - 💞️ I’m looking to collaborate on `Web Development` and `Pentesting`
