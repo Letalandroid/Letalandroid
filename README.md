@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Front/Back-End Developer
 - 🌱 I’m currently learning Cibersecurity on [HackThebox](https://hackthebox.com/) / [TryHackMe](https://tryhackme.com/) / [Dockerlabs](https://dockerlabs.es) 🚀
-- 💞️ I’m looking to collaborate on `Web Development` and `Pentesting`
+- 💞️ I’m looking to collaborate on `FullStack Development` and `Pentesting`
 
 # Languages-Frameworks-Tools
 <div align="center">
