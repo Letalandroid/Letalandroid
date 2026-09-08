@@ -45,6 +45,9 @@
 # ⚡ Stats ⚡
 
 <div><a href='https://tryhackme.com/p/letalandroid' target='_blank'><img src="https://tryhackme-badges.s3.amazonaws.com/letalandroid.png" alt="Your Image Badge" /></a></div>
+
+<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/letalandroid.png" width="300" />
+
 <img src="https://streak-stats.demolab.com?user=letalandroid&theme=tokyonight" />
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letalandroid&layout=compact&theme=tokyonight" /> -->
